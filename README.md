@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-triggering the action
+triggering the action for lab
